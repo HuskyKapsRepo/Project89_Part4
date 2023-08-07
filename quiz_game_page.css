@@ -1,0 +1,20 @@
+#output 
+{
+background: beige;
+border-radius: 10px;
+border-top: 10px solid maroon;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#title
+{
+    color: maroon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#input_number1, #input_number2
+{
+    background-color: beige;
+}
